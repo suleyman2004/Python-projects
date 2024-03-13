@@ -1,0 +1,10 @@
+first_number=float(input("Enter the 1st number:"))
+second_number=float(input("Enter the 2nd number:"))
+third_number=float(input("Enter the 3rd number:"))
+print("a,b,c=", first_number, second_number, third_number)
+average_number=(first_number+second_number+third_number)/3
+summation_number=first_number+second_number+third_number
+multiple_number=first_number*second_number*third_number
+print("The average of three integers=%.2f" %(average_number))
+print("The summation of three integers=%.2f" %(summation_number))
+print("The multiplication of three integers=%.2f" %(multiple_number))

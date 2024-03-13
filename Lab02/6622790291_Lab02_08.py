@@ -1,0 +1,6 @@
+first_number=int(input("Enter the first integer numbers:"))
+second_number=int(input("Enter the second integer numbers:"))
+print("The sum is %d" %(first_number+second_number))
+print("The difference is %d" %(first_number-second_number))
+print("The product is %d" %(first_number*second_number))
+print("The sum is %d" %(first_number//second_number))

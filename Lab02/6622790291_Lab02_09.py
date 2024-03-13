@@ -1,0 +1,7 @@
+integer1=int(input("Enter the first nubmer:"))
+integer2=int(input("Enter the second nubmer:"))
+integer3=int(input("Enter the third nubmer:"))
+integer4=int(input("Enter the fourth nubmer:"))
+integer5=int(input("Enter the fifht nubmer:"))
+integer6=int(input("Enter the sixth nubmer:"))
+print("Reverse order of", integer1, integer2, integer3, integer4, integer5, integer6, "--->", integer6, integer5, integer4, integer3, integer2, integer1 )
